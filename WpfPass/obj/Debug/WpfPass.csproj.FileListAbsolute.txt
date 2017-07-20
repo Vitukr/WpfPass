@@ -1,0 +1,14 @@
+c:\users\vit\documents\visual studio 2017\Projects\WpfPass\WpfPass\bin\Debug\WpfPass.exe.config
+c:\users\vit\documents\visual studio 2017\Projects\WpfPass\WpfPass\bin\Debug\WpfPass.exe
+c:\users\vit\documents\visual studio 2017\Projects\WpfPass\WpfPass\bin\Debug\WpfPass.pdb
+c:\users\vit\documents\visual studio 2017\Projects\WpfPass\WpfPass\obj\Debug\WpfPass.csprojResolveAssemblyReference.cache
+c:\users\vit\documents\visual studio 2017\Projects\WpfPass\WpfPass\obj\Debug\MainWindow.g.cs
+c:\users\vit\documents\visual studio 2017\Projects\WpfPass\WpfPass\obj\Debug\App.g.cs
+c:\users\vit\documents\visual studio 2017\Projects\WpfPass\WpfPass\obj\Debug\WpfPass_MarkupCompile.cache
+c:\users\vit\documents\visual studio 2017\Projects\WpfPass\WpfPass\obj\Debug\WpfPass_MarkupCompile.lref
+c:\users\vit\documents\visual studio 2017\Projects\WpfPass\WpfPass\obj\Debug\MainWindow.baml
+c:\users\vit\documents\visual studio 2017\Projects\WpfPass\WpfPass\obj\Debug\WpfPass.g.resources
+c:\users\vit\documents\visual studio 2017\Projects\WpfPass\WpfPass\obj\Debug\WpfPass.Properties.Resources.resources
+c:\users\vit\documents\visual studio 2017\Projects\WpfPass\WpfPass\obj\Debug\WpfPass.csproj.GenerateResource.Cache
+c:\users\vit\documents\visual studio 2017\Projects\WpfPass\WpfPass\obj\Debug\WpfPass.exe
+c:\users\vit\documents\visual studio 2017\Projects\WpfPass\WpfPass\obj\Debug\WpfPass.pdb
